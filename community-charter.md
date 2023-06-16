@@ -17,6 +17,7 @@ The community committee exists to:
 * Chieri Wada 🧢
 * David McKelvey
 * Sean Connolly
+* Nico Valencia
 
 ### Responsibilities
 
