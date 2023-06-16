@@ -30,7 +30,7 @@ The community committee is expected to:
 * **Plan and execute events** for indies to gather online and IRL.
 * **Engage in the community** to create conversations and connections between members.
 * **Prioritize indie satisfaction** by listening for opportunities and proposing initiatives to improve the indie experience.
-* **Proposing and supporting initiatives **that provide opportunities, structure, and training that lead to higher indie satisfaction, fosters more meaningful connection between members, and adds cultural value to our community.
+* **Proposing and supporting initiatives** that provide opportunities, structure, and training that lead to higher indie satisfaction, fosters more meaningful connection between members, and adds cultural value to our community.
 
 
 ### Power
