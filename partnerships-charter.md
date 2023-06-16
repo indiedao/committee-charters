@@ -12,8 +12,8 @@ The Partnership committee exists to:
 
 ### Members
 
-* Katy Jeremko 🧢
-* Nico Valencia
+* Nico Valencia 🧢
+* Katy Jeremko
 * Roy Rivera
 
 ### Responsibilities
