@@ -9,7 +9,7 @@ The product committee exists to:
 
 * **Support core service operations** by building and maintaining Indie Protocol and other solutions.
 * **Execute on brand recognition opportunities** by launching products that showcase service capabilities to both client and indie prospects.
-* **Produce revenue **by exploring product opportunities that can be built and owned by indies.
+* **Produce revenue** by exploring product opportunities that can be built and owned by indies.
 * **Develop and grow indies** by providing meaningful work opportunities that encourage exploration with new technology and design techniques.
 
 ### Members
