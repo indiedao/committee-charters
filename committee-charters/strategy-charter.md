@@ -18,8 +18,8 @@ The Strategy committee exists to:
 ### Members
 
 
-* Nico Valencia 🧢 
-* Katy Jeremko
+* Katy Jeremko 🧢 
+* Nico Valencia
 * Sean Connolly
 
 
